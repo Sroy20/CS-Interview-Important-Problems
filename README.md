@@ -29,22 +29,30 @@ While preparing for the CS algorithms part of Machine Learning interviews, I cam
 
 ## Binary trees
 
-1. Check if two binary trees are identical
-1. Write inorder traversal of a binary tree iteratively.
-1. Write an Inorder Iterator for a Binary Tree.
-1. Implement an inorder traversal with O(1) space
-1. Test if a binary tree is height-balanced
-1. Test if a binary tree is symmetric.
+1. Test if a binary tree is height balanced
+1. Test if a binary tree is symmetric
 1. Compute the lowest common ancestor (LCA) in a binary tree
 1. Compute the LCA when nodes have parent pointers
-1. Display the node values at each level of a binary tree
+1. Sum the root-to-leaf paths in a binary tree
+1. Find a root-to-leaf path with a specified sum
+1. Implement an iorder traversal without recursion
+1. Implement a preorder traversal without recursion
+1. Compute the kth node in an inorder traversal
+1. Compute the successor (Assume nodes have a parent field)
+1. Implement an inorder traversal with O(1) space (Assume nodes have a parent field)
 1. Reconstruct a binary tree from traversal data
-1. Reconctruct a binary tree from preorder traversal with markers
-1. Compute the right sibling trees
+1. Reconstruct a binary tree from preorder traversal with markers
+1. Form a linked list from the leaves of a binary tree
+1. Compute the exterior of a binary tree
+1. Compute the right sibling tree
+1. Check if two binary trees are identical
+1. Level order traversal of a binary tree
 1. Convert binary tree to doubly linked list
-1. Print the perimeter of a binary tree
-1. Given a binary tree, connect its siblings at each level
-1. 
+1. Serialize/Deserialize a binary tree
+1. Connect all siblings in a binary tree
+1. Mirror binary tree nodes
+1. Delete zero sum sub-trees
+1. N-ary tree to binary tree and back
 
 ## Heaps
 
