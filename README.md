@@ -21,7 +21,7 @@ While preparing for the CS algorithms part of Machine Learning interviews, I cam
 
 ## Arrays
 
-1. __The Dutch National Flag problem__: Write a program that takes an array _A_ and an index _i_ into _A_, and rearranges the elements such that all elements less than _A_[_i_](the "pivot") appear first, followed by elements equal to the pivot, followed by elements greater than the pivot.
+1. __The Dutch National Flag problem__: Write a program that takes an array _A_ and an index _i_ into _A_, and rearranges the elements such that all elements less than _A[i]_(the "pivot") appear first, followed by elements equal to the pivot, followed by elements greater than the pivot.
 2. __Incerement and arbitrary precision integer__: Write a program which takes as input an array of digits encoding a nonngetaive decimal integer _D_ and updates the array to represent the integer _D_+1. The algorithm should work even if implemented in a language that has finite-precision arithmetic.
 
 ## Strings
