@@ -75,6 +75,9 @@ While preparing for the CS algorithms part of Machine Learning interviews, I cam
 
 ## Dynamic Programming
 
+1. Count the number of score combinations
+1. 
+
 ## Greedy Algorithms and Invariants
 
 ## Graphs
