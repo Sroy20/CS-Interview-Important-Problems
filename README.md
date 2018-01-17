@@ -19,11 +19,24 @@ While preparing for the CS algorithms part of Machine Learning interviews, I cam
 
 ## Primitive types
 
+1. __Computing the parity of a word__:
+1. __Swap bits__:
+1. __Reverse bits__:
+1. __Find a closest integer with the same weights__:
+1. __Compute x * y without arithmetical operations__:
+1. __Compute x/y__:
+1. __Compute x<sup>y</sup>__:
+1. __Reverse digits__:
+1. __Check if a decimal number is a palindrome__:
+1. __Generate uniform random numbers__:
+1. __Rectangle intersection__:
+
+
 ## Arrays
 
 1. __The Dutch National Flag problem__: Write a program that takes an array _A_ and an index _i_ into _A_, and rearranges the elements such that all elements less than _A[i]_(the "pivot") appear first, followed by elements equal to the pivot, followed by elements greater than the pivot.
-2. __Incerement an arbitrary-precision integer__: Write a program which takes as input an array of digits encoding a nonngetaive decimal integer _D_ and updates the array to represent the integer _D_+1. The algorithm should work even if implemented in a language that has finite-precision arithmetic.
-3. __Multiply two arbitrary-precision integers__: Write a program that takes two arrays representing integers, and returns an integer representing their product. For example, since 193 x -761 = -146873, if the inputs are \[1, 9, 3] and \[-7, 6, 1], the function should return \[-1, 4, 6, 8, 7, 3]
+1. __Incerement an arbitrary-precision integer__: Write a program which takes as input an array of digits encoding a nonngetaive decimal integer _D_ and updates the array to represent the integer _D_+1. The algorithm should work even if implemented in a language that has finite-precision arithmetic.
+1. __Multiply two arbitrary-precision integers__: Write a program that takes two arrays representing integers, and returns an integer representing their product. For example, since 193 x -761 = -146873, if the inputs are \[1, 9, 3] and \[-7, 6, 1], the function should return \[-1, 4, 6, 8, 7, 3]
 
 
 ## Strings
