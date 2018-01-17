@@ -19,8 +19,8 @@ While preparing for the CS algorithms part of Machine Learning interviews, I cam
 
 ## Primitive types
 
-1. __Computing the parity of a word__:
-1. __Swap bits__:
+1. __Computing the parity of a word__: How would you compute the parity of a very large number of 64-bit words?
+1. __Swap bits__: Implement code that takes as input a 64-bit integer and swaps the bits at indices _i_ and _j_.
 1. __Reverse bits__:
 1. __Find a closest integer with the same weights__:
 1. __Compute x * y without arithmetical operations__:
